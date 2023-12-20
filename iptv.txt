@@ -1,6 +1,6 @@
-汕头体育,http://fdkj.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-汕头综合,http://fdkj.net:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-汕头经济,http://fdkj.net:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+汕头综合,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8?fbl=$SZYD超清
+汕头经济生活,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8?fbl=$SZYD超清
+汕头文旅体育,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8?fbl=$SZYD超清
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
