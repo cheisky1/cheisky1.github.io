@@ -1,6 +1,3 @@
-汕头综合,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8?fbl=$SZYD超清
-汕头经济生活,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8?fbl=$SZYD超清
-汕头文旅体育,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8?fbl=$SZYD超清
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
@@ -20,8 +17,6 @@ TVB-J2,http://141.95.85.201:6666/livehttpplay?channel_id=30030&fbl=$GWXL超清
 凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016&fbl=$GWXL超清
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-广东揭阳综合,http://183.237.231.139:9901/tsfile/live/1030_1.m3u8?fbl=$SZYD超清
-广东揭阳生活,http://183.237.231.139:9901/tsfile/live/1031_1.m3u8?fbl=$SZYD超清
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 GugbangTV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
