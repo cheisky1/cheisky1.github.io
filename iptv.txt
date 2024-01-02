@@ -1,5 +1,5 @@
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
-TVB-翡翠,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
+TVB-翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 TVB-翡翠,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
