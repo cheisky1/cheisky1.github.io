@@ -11,8 +11,8 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
-
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
+TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
 TVB-财经,http://141.95.85.201:6666/livehttpplay?channel_id=30019&fbl=$GWXL超清
