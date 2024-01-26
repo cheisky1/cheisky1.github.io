@@ -1,18 +1,4 @@
-翡翠华丽台,http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade2.m3u8
-无线新闻,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-无线直播,http://www.chahaoquan.com/wz/epg/tvb.php?id=4
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-明珠台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_
-有线新闻台,https://api.leonardpark.dev/live/icable/109
-有线直播新闻台,https://api.leonardpark.dev/live/icable/110
-有线财经资讯台,https://api.leonardpark.dev/live/icable/108
-TVB Xing He HD,http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVBS,http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-TVBS欢乐台,http://211.23.114.106:8532/http/60.251.39.91:8081/hls/65/807/ch17.m3u8
-TVB为食台,http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB经典(港版),http://iptv.tvfix.org/hls/tvbjd.m3u8
+
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰卫视,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
