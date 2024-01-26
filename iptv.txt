@@ -1,21 +1,4 @@
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-翡翠台,http://r.jdshipin.com/GeWKr?id=fct720
-明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Documentary,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Français,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Русский,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Español,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰卫视,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
@@ -34,8 +17,8 @@ TVB-翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/p
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
-TVB-财经,http://141.95.85.201:6666/livehttpplay?channel_id=30019&fbl=$GWXL超清
-TVB-J2,http://141.95.85.201:6666/livehttpplay?channel_id=30030&fbl=$GWXL超清
+TVB-财经,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+TVB-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 汕头综合,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8?fbl=$SZYD超清
 汕头经济生活,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8?fbl=$SZYD超清
 汕头文旅体育,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8?fbl=$SZYD超清
