@@ -1,9 +1,9 @@
 
-凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰卫视,https://jc-qlive-play.jingchangkan.cn/3473_171322168_W9MX.m3u8
-凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
+凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
+凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港J2频道,http://r.jdshipin.com/Nr5jq
@@ -15,13 +15,10 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 TVB-翡翠,http://www.namewee.xyz/gudou.php?id=364&id=1350_4500
 TVB-翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 TVB-翡翠,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
-TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
+TVB-明珠,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVB-明珠,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
-TVB-财经,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
+TVB-财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 TVB-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
-汕头综合,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8?fbl=$SZYD超清
-汕头经济生活,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8?fbl=$SZYD超清
-汕头文旅体育,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8?fbl=$SZYD超清
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰资讯,http://111.67.202.166/php/jydx.php?id=36&fbl=$JYDX超清
 凤凰资讯,http://220.169.156.36:9901/tsfile/live/1009_1.m3u8?fbl=$HNDX超清
@@ -36,7 +33,7 @@ TVB-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336
 凤凰香港,http://141.95.85.201:6666/livehttpplay?channel_id=30016&fbl=$GWXL超清
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 GugbangTV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
