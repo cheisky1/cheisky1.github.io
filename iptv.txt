@@ -9,10 +9,6 @@ TVBS,http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS,http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
-汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
-汕头综合,http://yzfvip.top:8000/rtp/239.253.43.45:5146
-汕头经济生活,http://ct.whosayssowhat.top:4022/udp/239.253.43.46:5146
-汕头经济生活,http://yzfvip.top:8000/rtp/239.253.43.46:5146
 凤凰香港,http://113.117.74.107:8081/hls/38/index.m3u8
 香港有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
 香港有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
@@ -43,6 +39,3 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-湖南卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
