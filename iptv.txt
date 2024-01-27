@@ -4,7 +4,7 @@ TVB-翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/p
 TVB-明珠,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVB-明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8
 TVB-财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-TVB-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
+TVB-J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰香港,http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
