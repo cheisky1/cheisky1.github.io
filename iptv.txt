@@ -1,9 +1,9 @@
-TVB-翡翠,https://cdn.hkdtmb.com/hls/81/index.m3u8
-TVB-翡翠,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-TVB-翡翠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
-TVB-明珠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+TVB-翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB-翡翠,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+TVB-翡翠,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+TVB-明珠,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVB-明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8
-TVB-财经,https://cdn.hkdtmb.com/hls/85/index.m3u8
+TVB-财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 TVB-J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8
 凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
