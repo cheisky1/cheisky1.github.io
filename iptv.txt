@@ -10,7 +10,7 @@ J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19
 明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 MBC综合,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-汕头,http://183.237.231.139:9901/tsfile/live/1045_1.m3u8
-汕头,http://183.237.231.139:9901/tsfile/live/1044_1.m3u8
-汕头,http://183.237.231.139:9901/tsfile/live/1046_1.m3u8
+汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
+汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
+
 
