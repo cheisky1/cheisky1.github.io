@@ -1,4 +1,8 @@
-
+翡翠台,http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL超清
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL高清
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL高清
+无线财经,http://141.95.85.201:6666/livehttpplay?channel_id=30019&fbl=$GWXL超清
+J2,http://141.95.85.201:6666/livehttpplay?channel_id=30030&fbl=$GWXL超清
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 J2,https://fake-stream.livednow.com/mdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
